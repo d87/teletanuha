@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "noEmit": true,
+    "allowJs": true,
+    "jsx": "react",
+    "module": "commonjs",
+    // "target": "es5",
+    // "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "lib": [
+        "es2017",
+        "esnext",
+        "dom"
+    ],
+    "types": ["node", "jest"],
+    "sourceMap": true,
+    "moduleResolution": "node",
+    // "skipLibCheck": true,
+    "pretty": true
+  }
+}

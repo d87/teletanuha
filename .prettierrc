@@ -1,0 +1,6 @@
+{
+  "printWidth": 120,
+  "parser": "typescript",
+  "semi": false,
+  "tabWidth": 4
+}
